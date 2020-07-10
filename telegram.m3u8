@@ -1,0 +1,512 @@
+#EXTM3U
+#PLAYLIST
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sport",Ads sport cricket,RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Sport",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby&checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Sport",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2130?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/337?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2129?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/338?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/339?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/340?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosovo 1 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2128?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport Kosovo 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2127?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport News HD
+http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1062?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super sport 3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/407?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3406?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 4
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3405?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 5
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3404?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",SuperSport 6
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3403?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tele Sport
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3454?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3368?checkedby
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 3 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3367?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN SPorts
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/29?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 1 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/30?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 10 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/39?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 11 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/40?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 12 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/41?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 13 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/42?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/31?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 3 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/32?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 4 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/33?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 6 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/35?checkedby
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 7 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/36?checkedby
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",AU | Fox Sports News,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby
+#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494&checkedby
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033&checkedby
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby&checkedby
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Bein Sports N
+http://heinentv.ddns.net:25461/mil/mil/5166?checkedby
+#EXTINF:0 tvg-country="BR;ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport;[@ZalTV]",Brasil IPTV_83,Real Madrid TV (English)
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 3
+http://heinentv.ddns.net:25461/mil/mil/5176?checkedby
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby&checkedby
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8?checkedby
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8?checkedby
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?checkedby
+#EXTINF:0 tvg-country="CL;ES" tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="Sport;[@ZalTV]",Madird tv,Real Madrid,Real Madrid HD,Real Madrid TV,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?checkedby
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/lsg8u59.png" group-title="Sport",Real Madrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport;[@ZalTV]",CCTV-5+,CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8?checkedby
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport;[@ZalTV]",CCTV-5+体育赛事HD,CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8?checkedby
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport;[@ZalTV]",CCTV-5体育HD,CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8?checkedby
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/7qSbS53.png" group-title="Sport",Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby
+#EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/7qSbS53.png" group-title="Sport",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby
+#EXTINF:0 tvg-country="EG" tvg-logo="http://www.niletc.tv/images/sport.png" group-title="Sport",Nile Sport
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test&checkedby
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/1Tfidgz.png" group-title="Sport",Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sport",Adjara Sports,SPORT : Adjarasport 1,SPORT | Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby
+#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sport",Adjara Sports 2,SPORT : Adjarasport 2,SPORT | Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby
+#EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/85D9kPy.png" group-title="Sport",Rugby TV
+http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8?checkedby
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="Sport",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8?checkedby
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",(GR) Cosmote Sport 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/19790.ts?checkedby
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",(GR) EPT Sports HD
+http://p.dtv.sx:80/live/visiontv/775142/19812.ts?checkedby
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",ERT Sports
+https://ert-live.siliconweb.com/media/ert_sports/ert_sportsmedium.m3u8?checkedby
+#EXTINF:0 tvg-country="HK" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Sport",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
+#EXTINF:0 tvg-country="IN;US" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="Sport",D Sport,DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?checkedby
+#EXTINF:0 tvg-country="IN" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8?checkedby
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8?checkedby
+#EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="Sport",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?checkedby
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport",VARZESH TV SPORT IR
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8?checkedby
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="Sport",Varzesh TV
+http://51.158.66.44/hls/stream.m3u8?checkedby
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/f1e6M2L.png" group-title="Sport",Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8?checkedby
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Sport",RTV Sport (San Marino)
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sport",Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8?checkedby
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Calcio 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5205?checkedby
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Calcio 4
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5208?checkedby
+#EXTINF:0 tvg-country="JM" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8?checkedby
+#EXTINF:0 tvg-country="JM" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8?checkedby
+#EXTINF:0 tvg-country="JM" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="Sport",SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8?checkedby
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport;[@ZalTV]",New Japan Pro Wrestling World,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby
+#EXTINF:0 tvg-country="KW" tvg-logo="https://i.imgur.com/vJeRr5j.jpg" group-title="Sport",KTV Sport,SPORT : KTV Sport,SPORT | KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8?checkedby
+#EXTINF:0 tvg-country="KW" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sport",KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="KW" tvg-logo="https://i.imgur.com/1KB7KA1.jpg" group-title="Sport",KTV Sport Plus,SPORT : KTV Sport Plus,SPORT | KTV Sport Plus
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8?checkedby
+#EXTINF:0 tvg-country="KW" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Sport",KTV Sport Plus
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 1 (1024×576),Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;[@ZalTV]",AL KASS 2 (1024×576),Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 3 (1024×576),Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 4 (1024×576),Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4&checkedby
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;[@ZalTV]",AL KASS 5 (1024×576),Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Sport",DUBAI SPORTS 2 (1920×1080),SPORT : Dubai Sports 2,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",SHARJA SPORTS (1920×1080),Sharjah Sports,SPORT : Sharjah Sports,SPORT | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Eurosport 1 FHD 1080
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5654?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Eurosport 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5655?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 1 FHD 1080
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5644?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX Sports 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5645?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Film1 Premiere FHD 1080
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5647?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/157?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/156?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/155?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 4
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/154?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 5
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/153?checkedby
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Fox Sports 6
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/152?checkedby
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/yaWTUE6.png" group-title="Sport",Oman Sport,SPORT : Oman Sports,SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sport",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4481?checkedby
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4482?checkedby
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4483?checkedby
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 4
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4484?checkedby
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",EUROSPORT 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4495?checkedby
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",EUROSPORT 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4494?checkedby
+#EXTINF:0 tvg-country="RU;TR" tvg-logo="" group-title="Sport",CBC SPORT,CBS SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="RU;UA" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport;[@ZalTV]",Red Bull TV,Red Bull TV HD,Red Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",SPORTS HD
+http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD_720.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",TRACE SPORT STARS (звука нет)
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",МАТЧ!
+http://31.40.128.20/hls/003_match_tv.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",НТС Спорт
+http://212.112.101.69:8081/stream39/output.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Esport 3,Esport Club
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="ES;US" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Sport;[@ZalTV]",Real Madrid,Real Madrid HD EN,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042869.jpg" group-title="Sport",REAL MADRID TV ESP
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="Sport",Real Madrid TV,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?checkedby
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby
+#EXTINF:0 tvg-country="SR" tvg-logo="" group-title="Sport",Arenasport 1 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/400?checkedby
+#EXTINF:0 tvg-country="SR" tvg-logo="" group-title="Sport",Arenasport 4 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/403?checkedby
+#EXTINF:0 tvg-country="SR" tvg-logo="" group-title="Sport",Arenasport 5 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/404?checkedby
+#EXTINF:0 tvg-country="SR" tvg-logo="" group-title="Sport",Supersport 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/405?checkedby
+#EXTINF:0 tvg-country="SR" tvg-logo="" group-title="Sport",Supersport 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/406?checkedby
+#EXTINF:0 tvg-country="SE" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sport",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" group-title="Sport",A Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgksj.png" group-title="Sport",BEIN SPORTS HABER [SD]
+http://94.46.195.170:9000/bein-sports-haber/live.m3u8?checkedby
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/5dc2c186866ac331e0feb22d.png" group-title="Sport",SPORTS TV  (720p)
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8?checkedby
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAQcPe.png" group-title="Sport",SPORTS TV [HD]
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8?checkedby
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAQcPe.png" group-title="Sport",SPORTS TV [SD]
+http://94.46.195.170:9000/sportstv/live.m3u8?checkedby
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Turkmen Спорт,Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby
+#EXTINF:0 tvg-country="TM" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/MmrMRFb.png" group-title="Sport",Donbas,UA:Донбас,Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?checkedby
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Sport",Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?checkedby
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Sport",Viasat Sport HD
+http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8?checkedby
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Sport",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="UA" tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png" group-title="Sport",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 1 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5986?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 10 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5995?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 11 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5996?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 12 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5997?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 2 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5987?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 3 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5988?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 4 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5989?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 5 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5990?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 7 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5992?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",AR VIP: Bein Sport 8 HD (Backup)
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5993?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARABIC : Sharjah Sports HD
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/898?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT1 HR
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/893.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ARENA SPORT1 HR
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/893?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Abu Dabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sport",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="Sport",Al Kass Sports,Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BAND SPORTS [FHD]
+http://cdn.poptv.vip:80/daniel/daniel/9283?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport",Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Canal+ Sport 2
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Canal+ Sport
+http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",CBS SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?checkedby&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sport HD 5
+http://130.193.165.50:4000/play/a008/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sport HD 4
+http://130.193.165.50:4000/play/a007/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sport HD 3
+http://130.193.165.50:4000/play/a006/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sport HD 2
+http://130.193.165.50:4000/play/a005/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bein Sport HD 1
+http://130.193.165.50:4000/play/a004/index.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bahrain sport
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1093987354.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bahrain Sports 2
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8?v=2957056943&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bahrain Sports
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Bahrain Sports
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=3116400149&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BOX NATION
+http://62.112.9.63:88/box_nation/index.m3u8?token=test&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?iptvm3uplaylists.m3u8&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DSports LQ 270p
+http://49.44.124.179:80/Dsports_HD/Dsports_HD_400.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DSports LQ 360p
+http://49.44.124.179:80/Dsports_HD/Dsports_HD_600.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",DSports SD 480p
+http://49.44.124.179:80/Dsports_HD/Dsports_HD_800.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ERT HD HD
+http://212.8.243.157:8089/erthd/video.m3u8?token=test&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 1
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 2
+http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/870.m3u8?checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -5
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  /  -9
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -10
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -11
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -12
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -13
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -14
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -15
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -16
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -17
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -18
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -19
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -20
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -21
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -22
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -23
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -25
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -26
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -27
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -28
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -29
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -30
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -31
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -32
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -33
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -34
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -35
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -38
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -39
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -40
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",EUROSPORT 4K  / -41
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
