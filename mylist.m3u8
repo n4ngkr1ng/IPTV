@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/K/kompastv-logo-699982D255-seeklogo.com.png" group-title="TV Nasional",KOMPASTV 
-https://cdngb196.useetv.com/joss/15/kompastv/chunklist_w1569127957_b894100_sleng.m3u8?enc=36Ly0dPESiCjnh7JLLb7BQ&id=&exp=1594400054
+https://dmxleo.dailymotion.com/cdn/manifest/video/xvenyff.m3u8?auth=x&cs=dmx_3uCdMxpxj_i8DaBvoLZleBHpSc8t-dMoevNAPkXxfyfz2qLSdwqaTkX0TicBPRecPIaBja4ozPeeJL1mH8VuPg3NmhMczbRJtQD68Vry6ns
+https://dmxleo.dailymotion.com/cdn/manifest/video/xvenyff.m3u8?auth=1594572752-2562-bqueq1ud-67eefbfb6802eb40edc9ed3d0dade8f86bqueq1ud&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Nasional",METROTV
 https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w1968725_b894100_sleng.m3u8?enc=1q5GQHDKziDXSvLUGXPPQA&id=&exp=1594400865
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="TV Nasional",TVONE
